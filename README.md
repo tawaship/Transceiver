@@ -2,7 +2,9 @@
 
 **A module for mutual messaging between multiple objects.**
 
+[![Build Status](https://travis-ci.com/tawaship/Transceiver.svg?branch=master)](https://app.travis-ci.com/tawaship/Transceiver)
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
+
 
 ---
 
